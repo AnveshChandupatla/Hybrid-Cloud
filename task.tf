@@ -30,7 +30,7 @@ resource "aws_subnet" "subnet1b" {
   tags = {
     Name = "subnet1b"
   }
-  depends_on = [
+  depends_on = [         
     aws_vpc.myvpc
   ]
 }
