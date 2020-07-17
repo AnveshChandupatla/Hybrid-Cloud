@@ -1,6 +1,4 @@
-# Hybrid-Cloud Task
-
-Create a web portal with all the security as much as possible.
+#Create a web portal with all the security as much as possible.
 
 So, we use WordPress software with dedicated database server.
 Database should not be accessible from the outside world for security purposes.
